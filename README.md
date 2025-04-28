@@ -1,6 +1,6 @@
-# iniciofl
+# Inicio Flutter
 
-Primer Proyecto de Flutter.
+Proyecto de Introducción de Flutter para la asignatura de Desarrollo de Aplicaciones Moviles del Doble Grado de Ingeneriería de Software y Física Computacional en la U-TAD.
 
 ## Getting Started
 
